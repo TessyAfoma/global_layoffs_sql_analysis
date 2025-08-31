@@ -1,4 +1,4 @@
-# global_layoffs_sql_analysis
+# Global Layoffs Analysis
 ## Project Overview
 This project explores global layoffs data using SQL only.
 The goal is to clean, standardize, and analyze the dataset to uncover layoff trends across multiple companies, industries, and countries.
@@ -45,4 +45,6 @@ The top five companies with the largest single layoff events are Google, Meta, M
 Google leads the pack with a staggering 12,000 employees laid off in one round.
 
 However, when looking at total layoffs across all events, Amazon tops the list with 18,150 employees laid off overall.
+
+
 
